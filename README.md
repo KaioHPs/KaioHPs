@@ -7,7 +7,7 @@
 
 **Languages and Tools:** 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaioHPs&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&bg_color=20232A" alt="KaioHPs' GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHPs&layout=compact&theme=gotham&hide_border=true&bg_color=20232A" alt="KaioHPs' Most Used Languages" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaioHPs&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&bg_color=20232A" alt="KaioHPs' GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioHPs&layout=compact&theme=gotham&hide_border=true&bg_color=20232A" alt="KaioHPs' Most Used Languages" /></a> |
 | ------------- | ------------- |
 
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=f16528)

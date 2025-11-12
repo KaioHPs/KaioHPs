@@ -2,8 +2,8 @@
 
 ## About me
 
-- In love with game development.
-- Currently studing web development on Trybe.
+- In love with game and web development.
+- Currently looking for new job opportunities in fullstack web development.
 
 **Languages and Tools:** 
 
